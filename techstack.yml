@@ -1,7 +1,8 @@
 repo_name: ohimors/jQuery-File-Upload
 report_id: b3d4ad65d17fe51a84d7a0284cea9da9
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T00:23:48+00:00'
+timestamp: '2024-01-05T08:47:26+00:00'
 requested_by: blueimp
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
   detection_source: Repo Metadata
 - name: jQuery
   description: The Write Less, Do More, JavaScript Library.
@@ -67,8 +73,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
-  detection_source_url: bower.json
-  detection_source: package.json
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload/blob/master/bower.json
+  detection_source: bower.json
   last_updated_by: Sebastian Tschan
   last_updated_on: 2013-07-04 15:00:57.000000000 Z
 - name: Git
@@ -79,6 +85,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -88,6 +95,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload/blob/master/server/node/package.json
   detection_source: server/node/package.json
   last_updated_by: Sebastian Tschan
   last_updated_on: 2012-02-18 18:15:11.000000000 Z
@@ -100,7 +108,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2566/nUX4vSWJ_400x400.png
-  detection_source_url: server/node/package.json
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload/blob/master/server/node/package.json
   detection_source: server/node/package.json
   last_updated_by: Sebastian Tschan
   last_updated_on: 2012-12-21 13:29:02.000000000 Z
@@ -114,7 +122,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16761/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
-  detection_source_url: server/node/package.json
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload/blob/master/server/node/package.json
   detection_source: server/node/package.json
   last_updated_by: Sebastian Tschan
   last_updated_on: 2012-09-20 11:34:04.000000000 Z
@@ -128,7 +136,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16814/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
-  detection_source_url: server/node/package.json
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload/blob/master/server/node/package.json
   detection_source: server/node/package.json
   last_updated_by: Sebastian Tschan
   last_updated_on: 2012-12-21 13:29:02.000000000 Z
