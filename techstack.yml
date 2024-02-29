@@ -1,0 +1,155 @@
+repo_name: ohimors/jQuery-File-Upload
+report_id: b3d4ad65d17fe51a84d7a0284cea9da9
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:41:56+00:00'
+requested_by: blueimp
+provider: github
+branch: master
+detected_tools_count: 11
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
+  detection_source: Repo Metadata
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: '1.6'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2013-07-04 15:00:57.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload/blob/master/server/node/package.json
+  detection_source: server/node/package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2012-02-18 18:15:11.000000000 Z
+- name: ImageMagick
+  description: A software suite to create, edit, compose, or convert bitmap images
+  website_url: http://www.imagemagick.org
+  version: 0.1.3
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2566/nUX4vSWJ_400x400.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload/blob/master/server/node/package.json
+  detection_source: server/node/package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2012-12-21 13:29:02.000000000 Z
+- name: formidable
+  description: A node.js module for parsing form data
+  package_url: https://www.npmjs.com/formidable
+  version: 1.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16761/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload/blob/master/server/node/package.json
+  detection_source: server/node/package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2012-09-20 11:34:04.000000000 Z
+- name: node-static
+  description: Simple, compliant file streaming module for node
+  package_url: https://www.npmjs.com/node-static
+  version: 0.6.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16814/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/ohimors/jQuery-File-Upload/blob/master/server/node/package.json
+  detection_source: server/node/package.json
+  last_updated_by: Sebastian Tschan
+  last_updated_on: 2012-12-21 13:29:02.000000000 Z
+  vulnerabilities:
+  - name: node-static and @nubosoftware/node-static vulnerable to Directory Traversal
+    cve_id: CVE-2023-26111
+    cve_url: https://github.com/advisories/GHSA-5g97-whc9-8g7j
+    detected_date: Mar 8
+    severity: high
+    first_patched: 
+  - name: Denial of Service in node-static
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8r4g-cg4m-x23c
+    detected_date: Sep 23
+    severity: moderate
+    first_patched: 
